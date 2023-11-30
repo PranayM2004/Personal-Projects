@@ -19,4 +19,4 @@ This document provides technical details and instructions for setting up and run
 
    ```bash
    git clone <[https://github.com/PranayM2004/Personal-Projects.git)https://github.com/PranayM2004/Personal-Projects.git>
-   cd Intelligent_Personal_Assistant
+   cd Intelligent-assistant
