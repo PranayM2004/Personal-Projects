@@ -18,5 +18,5 @@ This document provides technical details and instructions for setting up and run
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/PranayM2004/Personal-Projects.git)https://github.com/PranayM2004/Personal-Projects.git>
    cd Intelligent_Personal_Assistant
